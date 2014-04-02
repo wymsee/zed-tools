@@ -1,8 +1,9 @@
 {
     "name": "Sync OnSet Mobile Tools",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Tools for synconset mobile development",
     "files": [
-        "switchEnvironment.js"
+        "switchEnvironment.js",
+        "changeId.js"
     ]
 }
