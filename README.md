@@ -1,4 +1,4 @@
-zed-tools-mobile
+zed-tools
 ================
 
-Zed Package of tools for the synconset mobile app
+Zed Package of tools for synconset

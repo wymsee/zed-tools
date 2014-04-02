@@ -1,0 +1,19 @@
+{
+    "commands": {
+        "SyncOnSet:Switch to Prod": {
+            "scriptUrl": "./switchEnvironment.js",
+            "environment": "prod",
+            "readOnly": true
+        },
+        "SyncOnSet:Switch to Dev": {
+            "scriptUrl": "./switchEnvironment.js",
+            "environment": "dev",
+            "readOnly": true
+        },
+        "SyncOnSet:Switch to Local": {
+            "scriptUrl": "./switchEnvironment.js",
+            "environment": "local",
+            "readOnly": true
+        }
+    }
+}
